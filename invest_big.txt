@@ -1,0 +1,8 @@
+Cacao_culture|Investir dans l'agriculture#pour la culture du cacao#destine a la vente|5000000|120000
+Immeuble_Volt|Achat d'une cite#pour location future|10000000|275000
+supermarche_Out|Acheter un supermarche#en faillite|50000000|525000
+bureautique_pto|Investir dans une #bureatique offrant divers#services|1200000|98000
+Terrain_ecole|Acheter  un terrain pour#consruction d'une ecole|4560000|1000000
+Taxi_course|Acheter un vehicule#pour usage de taxi|5000000|200000
+Esthetique_bio|Acheter une salle et#l'equiper pour usage#de centre de beaute|35000000|100000
+Fitness|Acheter une salle et l'equiper#pour usage de fitness|15000000|200000f

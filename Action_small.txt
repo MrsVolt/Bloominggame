@@ -1,0 +1,8 @@
+Action_AGRIFOOD|Acheter des actions dans#la societe agro-#alimentaire AGRIFOOD|10000|0
+Action_LOMBROSO|Acheter des actions dans#la societe LOMBROSO|10000|0
+Action_LIFETECH|Acheter des actions dans#la start-up LIFETECH |30000|0
+Action_RENAPROV|Acheter des actions dans#la societe de finance#RENAPROV|50000|0
+Action_NIKI|Acheter des actions dans#la societe alimentaire#NIKI|20000|0
+Action_BUILDINGPLUS|Acheter des actions#dans la societe de#construction BUILDINGPLUS|30000|0
+Action_VISION CONFORT|Acheter des actions#dans la societe d'amena-#gement VISION CONFORT|80000|0
+Action_NZIKO|Acheter des actions dans la#societe de librairie#papeterie NZIKO|60000|0f

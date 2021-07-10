@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="images">
+    <file>image_marche.jpg</file>
+    <file>img_remboursement.jpg</file>
+    <file>image_emprunt.jpg</file>
+    <file>image_chomage.jpg</file>
+    <file>image_doodads.png</file>
+    <file>backg.jpg</file>
+    <file>sd_img.jpg</file>
+    <file>deal2_img.jpg</file>
+    <file>deal_img.jpg</file>
+    <file>deal_img.jpg</file>
+    <file>image_paycheck.jpg</file>
+    <file>img_charite.png</file>
+    <file>bebe.jpg</file>
+    <file>de.png</file>
+    <file>cashflow.jpeg</file>
+    <file>background.jpeg</file>
+  </qresource>
+</RCC>

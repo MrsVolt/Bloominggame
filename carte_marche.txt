@@ -1,0 +1,75 @@
+Action_AGRIFOOD|vente des#actions dans la societe#agro-alimentaire AGRIFOOD|40000
+Action_AGRIFOOD|vente des#actions dans la societe#agro-alimentaire AGRIFOOD|15000
+Action_AGRIFOOD|vente des#actions dans la societe#agro-alimentaire AGRIFOOD|30000
+Action_AGRIFOOD|vente des#actions dans la societe#agro-alimentaire AGRIFOOD|25000
+Action_AGRIFOOD|vente des#actions dans la societe#agro-alimentaire AGRIFOOD|10000
+Action_LOMBROSO|vente des#actions dans la societe#LOMBROSO|6500
+Action_LOMBROSO|vente des#actions dans la societe#LOMBROSO|5000
+Action_LOMBROSO|vente des#actions dans la societe#LOMBROSO|10000
+Action_LOMBROSO|vente des#actions dans la societe#LOMBROSO|5500
+Action_RENAPROV|vente des#actions dans la societe#de finance RENAPROV|50000
+Action_RENAPROV|vente des#actions dans la societe#de finance RENAPROV|66000
+Action_RENAPROV|vente des#actions dans la societe#de finance RENAPROV|90500
+Action_RENAPROV|vente des#actions dans la societe#de finance RENAPROV|95000
+Action_RENAPROV|vente des#actions dans la societe#de finance RENAPROV|60000
+Action_NIKI|vente des#actions dans la societe#alimentaire NIKI|20500
+Action_NIKI|vente des#actions dans la societe#alimentaire NIKI|45500
+Action_NIKI|vente des#actions dans la societe#alimentaire NIKI|66500
+Action_NIKI|vente des#actions dans la societe#alimentaire NIKI|80000
+Action_BUILDINGPLUS|vente#des actions dans la societe#de construction BUILDINGPLUS|35000
+Action_BUILDINGPLUS|vente#des actions dans la societe#de construction BUILDINGPLUS|50000
+Action_BUILDINGPLUS|vente#des actions dans la societe#de construction BUILDINGPLUS|55500
+Action_VISION CONFORT|vente#des actions dans la societe#d'amenagement VISION CONFORT|89950
+Action_VISION CONFORT|vente#des actions dans la societe#d'amenagement VISION CONFORT|81000
+Action_VISION CONFORT|vente#des actions dans la societe#d'amenagement VISION CONFORT|95000
+Action_VISION CONFORT|vente#des actions dans la societe#d'amenagement VISION CONFORT|129050
+Action_VISION CONFORT|vente#des actions dans la societe#d'amenagement VISION CONFORT|70500
+Action_VISION CONFORT|vente#des actions dans la societe#d'amenagement VISION CONFORT|90500
+Action_VISION CONFORT|vente#des actions dans la societe#d'amenagement VISION CONFORT|66650
+Action_LIFETECH|vente#des actions dans la start-up#LIFETECH|5000
+Action_LIFETECH|vente#des actions dans la start-up#LIFETECH|6600
+Action_LIFETECH|vente#des actions dans la start-up#LIFETECH|8000
+Action_LIFETECH|vente#des actions dans la start-up#LIFETECH|5O00
+Action_LIFETECH|vente#des actions dans la start-up LIFETECH|4550
+Action_LIFETECH|vente#des actions dans la start-up LIFETECH|3500
+Action_FOKOU|vente des#actions dans la societe#FOKOU|1200000
+Action_FOKOU|vente des#actions dans la societe#FOKOU|1500000
+Action_FOKOU|vente des#actions dans la societe#FOKOU|2000000
+Action_FOKOU|vente des#actions dans la societe#FOKOU|2550000
+Action_FOKOU|vente des#actions dans la societe#FOKOU|3000000
+Action_CONGELCAM|vente#des actions dans#la societe CONGELCAM|1230000
+Action_CONGELCAM|vente#des actions dans#la societe CONGELCAM|2000000
+Action_CONGELCAM|vente#des actions dans#la societe CONGELCAM|3005000
+Action_CONGELCAM|vente#des actions dans#la societe CONGELCAM|
+3455000
+Action_QUIFEROU|vente#des actions dans la#societe QUIFEROU|3200000
+Action_QUIFEROU|vente#des actions dans la#societe QUIFEROU|2500000
+Action_QUIFEROU|vente#des actions dans la#societe QUIFEROU|2000000
+Action_QUIFEROU|vente#des actions dans la#societe QUIFEROU|1500000
+Action_KADJI|vente des#actions dans la#societe KADJI|3150000
+Action_KADJI|vente des#actions dans la#societe KADJI|3000000
+Action_KADJI|vente des#actions dans la#societe KADJI|1200000
+Action_KADJI|vente des#actions dans la#societe KADJI|2500000
+Action_DANGOTE|vente#des actions dans la societe DANGOTE|2000000
+Action_DANGOTE|vente#des actions dans la#societe DANGOTE|4000000
+Action_DANGOTE|vente#des actions dans la#societe DANGOTE|3500000
+Action_DANGOTE|vente#des actions dans la#societe DANGOTE|200500
+Action_EXPRESS_UNINON|vente#des actions dans#la societe EXPRESS UNION|3700000
+Action_EXPRESS_UNINON|vente#des actions dans#la societe EXPRESS UNION|3500000
+Action_EXPRESS_UNINON|vente#des actions dans#la societe EXPRESS UNION|2500000
+Action_EXPRESS_UNINON|vente#des actions dans#la societe EXPRESS UNION|2000000
+Action_EXPRESS_UNINON|Acheter#des actions dans#la societe EXPRESS UNION|1670000
+Action_EXPRESS_UNINON|vente#des actions dans la#societe EXPRESS UNION|1500000
+Action_BRASSERIE DU CAMEROUN|#vente des actions dans la societe des#BRASSERIES du Cameroun|3900000
+Action_BRASSERIE DU CAMEROUN|#vente des actions dans la societe des#BRASSERIES du Cameroun|4000000
+Action_BRASSERIE DU CAMEROUN|#vente des actions dans la societe des#BRASSERIES du Cameroun|3550000
+Action_BRASSERIE DU CAMEROUN|#vente des actions dans la societe des#BRASSERIES du Cameroun|3000000
+Action_BRASSERIE DU CAMEROUN|#vente des actions dans la societe des#BRASSERIES du Cameroun|2500000
+Action_BRASSERIE DU CAMEROUN|#vente des actions dans la societe des#BRASSERIES du Cameroun|2000000
+Action_WESTERN UNION|vente#des actions dans la societe#WESTERN UNION|3450000
+Action_WESTERN UNION|vente#des actions dans la societe#WESTERN UNION|5000000
+Action_WESTERN UNION|vente#des actions dans la societe#WESTERN UNION|4500000
+Action_ORANGE|vente des#actions dans la societe#ORANGE|5000000
+Action_ORANGE|vente des#actions dans la societe#ORANGE|4000000
+Action_ORANGE|vente des#actions dans la societe#ORANGE|3500000
+Action_ORANGE|vente des#actions dans la societe#ORANGE|5450000

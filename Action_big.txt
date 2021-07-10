@@ -1,0 +1,9 @@
+Action_FOKOU|Acheter des actions#dans la societe FOKOU|1000000|0
+Action_CONGELCAM|Acheter des actions dans#la societe CONGELCAM|1200000|0
+Action_QUIFEROU|Acheter des actions dans#la societe QUIFEROU|1100000|0
+Action_KADJI|Acheter des actions dans#la societe KADJI|1150000|0
+Action_DANGOTE|Acheter des actions dans#la societe DANGOTE|2000000|0
+Action_EXPRESS_UNINON|Acheter des actions#dans la societe#EXPRESS UNION|1500000|0
+Action_BRASSERIE_CAMEROUN|Acheter des actions #dans la societe des#BRASSERIES du Cameroun|2000000|0
+Action_WESTERN UNION|Acheter des actions dans#la societe WESTERN UNION|3000000|0
+Action_ORANGE|Acheter des actions dans#la societe ORANGE|3200000|0f

@@ -1,0 +1,8 @@
+Chambre_pro|Achat d'une chambre#pour location future|100000|13500
+Agro_alimentaire|Investir dans l'agro-#alimentaire pour obtenir#des benefices|95000|14000
+Quincaillerie_pro|Achat d'outils electro-#niques bon marche pour#revendre|100000|17500
+Small_Commerce|S'acheter un comptoir#comme socle pour vente#de vivres frais|35000|5000
+Commerce_prix|Acheter des vivres#frais pour revendre|25000|3500
+Commerce_free|Ouvrir une boutique dans#son quartier de#residence|100000|30000
+Sante_naturelle|Ouvrir un centre#d'approvisionnement en#produits de sante naturelle dans#sa zone residentielle|150000|20000
+Coiffure_miss|Ouvrir un salon de#coiffure dans son quartier|50000|7500f
